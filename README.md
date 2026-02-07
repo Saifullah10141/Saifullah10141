@@ -22,7 +22,7 @@
 
 **2+ Years** of turning complex problems into clean, scalable solutions
 
-[🌐 Portfolio](https://saifullahanwar.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/saifullah-anwar) • [📦 PyPI](https://pypi.org/project/PyWizardry/) • [📧 Hire Me](https://saifullahanwar.vercel.app/#contact)
+[🌐 Portfolio](https://saifullahanwar.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/saifullah-anwar) • [📧 Hire Me](https://saifullahanwar.vercel.app/#contact)
 
 </div>
 
@@ -300,7 +300,7 @@ print(me.current_status())
 | **Frontend** | React, Next.js, TypeScript | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=00D9FF) |
 | **Databases** | MySQL, Firebase | ![88%](https://progress-bar.dev/88?title=Advanced&width=200&color=7C3AED) |
 | **APIs** | REST, OAuth, Integrations | ![92%](https://progress-bar.dev/92?title=Expert&width=200&color=00D9FF) |
-| **DevOps** | Git, Vercel, Linux | ![80%](https://progress-bar.dev/80?title=Proficient&width=200&color=7C3AED) |
+| **DevOps** | Git, Vercel, Linux, Azure | ![80%](https://progress-bar.dev/80?title=Proficient&width=200&color=7C3AED) |
 
 </div>
 
@@ -360,8 +360,8 @@ graph LR
 | 🎯 Milestone | 📊 Metric | 🗓️ Timeline |
 |:---|:---:|---:|
 | **Production Apps Deployed** | 6+ Live Systems | 2023-2026 |
-| **Active Users Served** | 500+ Users | Current |
-| **PyPI Package Downloads** | 100+ Downloads | Growing |
+| **Active Users Served** | 10k+ Users | Current |
+| **PyPI Package Downloads** | 1k+ Downloads | Growing |
 | **Database Query Optimization** | 60% Speed Increase | 2025 |
 | **API Integrations Completed** | 15+ Services | 2023-2026 |
 | **Zero-Vulnerability Systems** | 100% Security Score | Always |
@@ -404,9 +404,6 @@ graph LR
 </a>
 <a href="https://github.com/Saifullah10141">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://pypi.org/project/PyWizardry/">
-  <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyPI" />
 </a>
 <a href="mailto:contact@saifullahanwar.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
